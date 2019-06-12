@@ -6,7 +6,7 @@ module ESRI
 
           # CONSTANTS
 
-          PATH = "/arcgis/rest/services/World/GeocodeServer/find".freeze
+          PATH = "/arcgis2/rest/services/UtilityServices/USA_LocalComposite/GeocodeServer/find".freeze
 
           # QUERY
 
