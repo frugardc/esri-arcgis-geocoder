@@ -5,7 +5,7 @@ module ESRI
 
         # CONSTANTS
 
-        HOST = "cgis.crowncastle.com/".freeze
+        HOST = "cgis.crowncastle.com".freeze
         PATH = nil.freeze
         PORT = 80.freeze
 
